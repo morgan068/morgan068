@@ -31,5 +31,4 @@
  <a href="https://discord.gg/nQAtnJqUTz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:morganpeterson078@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-![Snake animation](https://github.com/morgan068/morgan068/blob/output/github-contribution-grid-snake.svg)
    ##
