@@ -4,8 +4,7 @@
 - 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando Java
 - 📫 Como chegar a mim: morganpeterson078@gmail.com
-- 😄 Pronomes: ele/dele
-- ⚡ Fato engraçado: Tenho 14 anos 
+- ⚡ Fato engraçado: Tenho 15 anos 
 
 <div align="center">
   <a href="https://github.com/morgan068">
